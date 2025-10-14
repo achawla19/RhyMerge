@@ -1,0 +1,7 @@
+<svg width="140" height="40" viewBox="0 0 140 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <text x="5" y="28" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#E11D48">Rhy</text>
+  <text x="50" y="28" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#7B61FF">Merge</text>
+  <circle cx="70" cy="10" r="3" fill="#E36FFF"/>
+  <circle cx="78" cy="10" r="3" fill="#7B61FF"/>
+  <circle cx="86" cy="10" r="3" fill="#E11D48"/>
+</svg>
